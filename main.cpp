@@ -31,7 +31,9 @@ int main(){
             cout<<"Invalid option..."<<endl;
         }
     }
-
+    
+    system("clear");
+    
     if(leng)
         cout<<"[MAIN] Calcolo della media ponderata dei voti...\n";
     else
